@@ -1,0 +1,7 @@
+1단계: File -> Build Settings에 들어가서
+Scenes In Build에 Scenes/SampleScene을 끄고 
+자신이 저장한 게임 씬을 드래그&드롭한다.
+2단계: 여기서 Player Settings -> Plauer에 들어가서 
+Company Name과 Product Name에 원하는 이름을 입력한다.
+3단계: Build를 하고 모바일 기기와 연결한 후 
+apk파일을 모바일 기기에 옮긴다.

@@ -1,0 +1,4 @@
+- 충돌 판정할 오브젝트에 Collider 컴포넌트가 적용되어 있는가?
+- Collider 컴포넌트의 Is Trigger가 체크되어 있는가?
+- 스크립트에 OnTriggerEnter2D 메서드가 구현되어 있는가?
+- 스크립트가 적용되어 있는가?
